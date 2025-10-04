@@ -57,7 +57,7 @@ EDINET Data Pipeline & Dash Dashboard
 ```
 /edinet_analyze
 ├── .env                    # 環境変数ファイル（EDINET APIキーなど）
-├── directory_overview.md   # ★このファイル★ ディレクトリ構造メモ
+├── directory_overview.md   # ディレクトリ構造メモ
 ├── app.py                  # Dashアプリケーションのエントリーポイント
 ├── edinet_api.py           # EDINETとの通信
 ├── edinet_config.py        # ① 全体の設定ファイル (Configクラスを定義)
