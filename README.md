@@ -1,4 +1,4 @@
-# EDINET Data Pipeline & Dash Dashboard
+# EDINET Data Pipeline & Dash Dashboard(開発中)
 
 ## 使用技術一覧
 
